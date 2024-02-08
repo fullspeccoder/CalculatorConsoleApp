@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\bin\Debug\net8.0\ConsoleInput.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\refint\ConsoleInput.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ConsoleInput.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ConsoleInput\obj\Debug\net8.0\ref\ConsoleInput.dll

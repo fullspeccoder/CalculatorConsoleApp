@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\bin\Debug\net8.0\ProgramArgumentsExplicit.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\refint\ProgramArgumentsExplicit.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ProgramArgumentsExplicit.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ProgramArgumentsExplicit\obj\Debug\net8.0\ref\ProgramArgumentsExplicit.dll

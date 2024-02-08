@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\bin\Debug\net8.0\ValueTypes.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\refint\ValueTypes.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ValueTypes.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ValueTypes\obj\Debug\net8.0\ref\ValueTypes.dll

@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\bin\Debug\net8.0\Calculator.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\bin\Debug\net8.0\Calculator.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\bin\Debug\net8.0\Calculator.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\bin\Debug\net8.0\Calculator.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\Calculator\obj\Debug\net8.0\ref\Calculator.dll

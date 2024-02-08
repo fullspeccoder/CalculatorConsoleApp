@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\bin\Debug\net8.0\ExerciseLoopsAndConditionals.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\bin\Debug\net8.0\ExerciseLoopsAndConditionals.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\bin\Debug\net8.0\ExerciseLoopsAndConditionals.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\bin\Debug\net8.0\ExerciseLoopsAndConditionals.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\bin\Debug\net8.0\ExerciseLoopsAndConditionals.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\refint\ExerciseLoopsAndConditionals.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ExerciseLoopsAndConditionals.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\ExerciseLoopsAndConditionals\obj\Debug\net8.0\ref\ExerciseLoopsAndConditionals.dll

@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

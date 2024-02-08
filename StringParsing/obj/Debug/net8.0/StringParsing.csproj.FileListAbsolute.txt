@@ -1,0 +1,14 @@
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.exe
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.deps.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.runtimeconfig.json
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\bin\Debug\net8.0\StringParsing.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.AssemblyInfo.cs
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\refint\StringParsing.dll
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.pdb
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\StringParsing.genruntimeconfig.cache
+\\Mac\Home\Documents\Development\Game Devlopment\C#Development\ZTM.DotNet\StringParsing\obj\Debug\net8.0\ref\StringParsing.dll
